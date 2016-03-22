@@ -1,5 +1,10 @@
 from SimpleCV import *
 
+'''
+Funcao que demonstra algumas funcionalidades do SimpleCV quanto a manipulacao das imagens.
+Tem como parametro a imagem a ser mofificada.
+'''
+
 def funcoesBasicas(img):
 	binarized = img.binarize()
 	binarized.drawText("Hello World!")
@@ -16,6 +21,15 @@ def funcoesBasicas(img):
 
 	croped = img.crop(300,300, 500, 500)
 	croped.save("croped.jpg")
+
+	warped = img.warp(((100,10),(300,10), (450,300), (10,300)))
+	warped.save("warped.jpg")
+
+	negative = img.invert()
+	negative.save("negative.jpg")
+
+	grey = img.greyscale()
+	grey.save("greyscale.jpg")
 
 	blobs = img.findBlobs()
 	blobs.draw()
@@ -42,3 +56,27 @@ def isCar(carInLot, noCarInLot):
 		return True
 	else:
 		return False
+
+
+'''
+  Motion Detector: Captura 2 imagens da tela e verifica as direfencas entre elas, se for notada uma alteracao maior que o limite 
+  salva a diferenca entre as 2 imagens e imprime uma mensagem na tela.
+'''
+
+def motionDetector():
+
+	cam = Camera()
+	threshold = 5.0 # se exceder esse falor ele faz alguma coisa
+
+	while True:
+		previous = cam.getImage() #captura um frame
+		time.sleep(0.5) #espera por meio segundo
+		current = cam.getImage() #captura outro frame
+		diff = current - previous
+		matrix = diff.getNumpy()
+		mean = matrix.mean()
+
+		diff.save("image.jpg")
+
+		if mean >= threshold:
+		        print "Motion Detected"
