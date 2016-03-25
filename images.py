@@ -1,82 +1,83 @@
 from SimpleCV import *
 
 '''
-Funcao que demonstra algumas funcionalidades do SimpleCV quanto a manipulacao das imagens.
-Tem como parametro a imagem a ser mofificada.
+Demonstrate simple functions of SimpleCV  
+Framework saving the result images in the Directory
+where this file is located.
 '''
 
 def funcoesBasicas(img):
-	binarized = img.binarize()
-	binarized.drawText("Hello World!")
-	binarized.save("binarized.jpg")
+	_binarized = img.binarize()
+	_binarized.drawText("Hello World!")
+	_binarized.save("binarized.jpg")
 
-	eroded = img.erode()
-	eroded.save("eroded.jpg")
+	_eroded = img.erode()
+	_eroded.save("eroded.jpg")
 
-	threshold = img.binarize(90).invert()
-	threshold.save("thresholded.jpg")
+	_threshold = img.binarize(90).invert()
+	_threshold.save("thresholded.jpg")
 
-	edged = img.edges(t1=160)
-	edged.save("edged.jpg")
+	_edged = img.edges(t1=160)
+	_edged.save("edged.jpg")
 
-	croped = img.crop(300,300, 500, 500)
-	croped.save("croped.jpg")
+	_croped = img.crop(300,300, 500, 500)
+	_croped.save("croped.jpg")
 
-	warped = img.warp(((100,10),(300,10), (450,300), (10,300)))
-	warped.save("warped.jpg")
+	_warped = img.warp(((100,10),(300,10), (450,300), (10,300)))
+	_warped.save("warped.jpg")
 
-	negative = img.invert()
-	negative.save("negative.jpg")
+	_negative = img.invert()
+	_negative.save("negative.jpg")
 
-	grey = img.greyscale()
-	grey.save("greyscale.jpg")
+	_grey = img.greyscale()
+	_grey.save("greyscale.jpg")
 
-	blobs = img.findBlobs()
-	blobs.draw()
+	_blobs = img.findBlobs()
+	_blobs.draw()
 	img.save("blobs.jpg")
 
 '''
- Verifica se ha um carro estacionado;
- Tem como parametro duas imagens de comparacao, uma com o parametro e outra a ser comparada
-
+verify if exists a yellow car in th lot
 '''
 
 def isCar(carInLot, noCarInLot):
 
-	car = carInLot.crop(470,200,200,200)
-	yellow_car = car.colorDistance(Color.YELLOW)
-	only_car = car - yellow_car
-	only_car.meanColor()
-	img1 = only_car.meanColor()
-	no_car = noCarInLot.crop(470,200,200,200) 
-	yellow_car = no_car.colorDistance(Color.YELLOW)
-	only_car = car - yellow_car
-	img2 = only_car.meanColor()
-	if (img1==img2):
-		return True
-	else:
+	_car = carInLot.crop(470,200,200,200)
+	_yellow_car = _car.colorDistance(Color.YELLOW)
+	_only_car = _car - _yellow_car
+	_img1 = _only_car.meanColor()
+
+	_no_car = noCarInLot.crop(470,200,200,200) 
+	_yellow_car = _no_car.colorDistance(Color.YELLOW)
+	_only_car = _car - _yellow_car
+	_img2 = _only_car.meanColor()
+	if (_img1==_img2):
 		return False
+	else:
+		return True
 
 
 '''
-  Motion Detector: Captura 2 imagens da tela e verifica as direfencas entre elas, se for notada uma alteracao maior que o limite 
-  salva a diferenca entre as 2 imagens e imprime uma mensagem na tela.
+Motion Detector: Capture two frames from the webcam,
+with a interval of 0,5 sec. If the diference between
+them exceed a value save the diference image and print
+"Motion Detected".
 '''
 
 def motionDetector():
 
-	cam = Camera()
-	threshold = 5.0 # se exceder esse falor ele faz alguma coisa
+	_cam = Camera()
+	_threshold = 5.0 # if exceed this value do an action
 
 	while True:
-		previous = cam.getImage() #captura um frame
-		time.sleep(0.5) #espera por meio segundo
-		current = cam.getImage() #captura outro frame
-		diff = current - previous
-		matrix = diff.getNumpy()
-		mean = matrix.mean()
+		_previous = _cam.getImage() #capture a frame
+		time.sleep(0.5) #wait 0,5 sec
+		_current = _cam.getImage() #capture another frame
+		_diff = _current - _previous 
+		_matrix = _diff.getNumpy()
+		_mean = _matrix.mean()
 
-		diff.save("image.jpg")
+		_diff.save("image.jpg")
 
-		if mean >= threshold:
+		if _mean >= _threshold:
 		        print "Motion Detected"
