@@ -16,7 +16,7 @@ def menu():
     print '1 - Invert'
     print '2 - Greyscale'
     print '3 - Sepia'
-    print '4 - MorphClose'
+    print '4 - Darken Effect'
     print '5 - Nightvision Effect'
     print '0 - Sair'
 
