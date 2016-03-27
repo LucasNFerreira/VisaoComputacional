@@ -32,7 +32,7 @@ def sepia_effect():
     cam.start_camera(3)	
     raw_input(MSG_PROMPT)
 
-def morphClose():
+def darken_effect():
     cam.start_camera(4)	
     raw_input(MSG_PROMPT)
 
@@ -44,7 +44,7 @@ def sair():
     exit()
 
 #Cria um dicionário que relaciona cada função.
-operacoes = {1 : invert, 2 : greyscale, 3 : sepia_effect, 4 : morphClose, 5 : nightvision_effect, 0: sair}
+operacoes = {1 : invert, 2 : greyscale, 3 : sepia_effect, 4 : darken_effect, 5 : nightvision_effect, 0: sair}
 
 def switch(x):
     os.system('clear')
