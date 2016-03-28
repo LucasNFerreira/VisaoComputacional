@@ -1,3 +1,4 @@
+#coding:utf-8
 from SimpleCV import *
 
 import sys
