@@ -1,3 +1,4 @@
+#coding:utf-8
 from SimpleCV import *
 
 cam = Camera()
@@ -10,7 +11,7 @@ def detect_green_object():
 
         dist = img.colorDistance(SimpleCV.Color.RED).dilate(2)
         segmented = dist.stretch(200,255)
-        blobs = dist.findBlobs(minsize=30)
+        blobs = dist.findBlobs(minsize=100)
         
         if blobs:
             blobs.draw()
