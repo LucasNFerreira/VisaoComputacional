@@ -18,6 +18,7 @@ def menu():
     print '3 - Sepia'
     print '4 - Darken Effect'
     print '5 - Nightvision Effect'
+    print '6 - Detect a Green Object'
     print '0 - Sair'
 
 def invert():
@@ -40,11 +41,16 @@ def nightvision_effect():
     cam.start_camera(5)	
     raw_input(MSG_PROMPT)
 
+def detect_green():
+	import greenObjectDetector as detector
+	detector.detect_green_object()
+	raw_input(MSG_PROMPT) 
+
 def sair():
     exit()
 
 #Cria um dicionário que relaciona cada função.
-operacoes = {1 : invert, 2 : greyscale, 3 : sepia_effect, 4 : darken_effect, 5 : nightvision_effect, 0: sair}
+operacoes = {1 : invert, 2 : greyscale, 3 : sepia_effect, 4 : darken_effect, 5 : nightvision_effect, 6 : detect_green,0: sair}
 
 def switch(x):
     os.system('clear')
