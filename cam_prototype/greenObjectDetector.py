@@ -33,4 +33,4 @@ def isGreen(crop):
     if (green_histogram > blue_histogram) and (green_histogram > red_histogram):
         return True
     else:
-	    return False 
+	return False 
