@@ -1,0 +1,65 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ["Frame","Luminance"],
+          [1, 2.35938],
+          [2, 3.09375], 
+          [3, 2.20703],
+          [4, 7.19141], 
+          [5, 8.97266],
+          [6, 5.83984], 
+          [7, 4.375], 
+          [8, 2.80859], 
+          [9, 2.99609], 
+          [10, 8.16797], 
+          [11, 2.04297], 
+          [12, 0.253906], 
+          [13, 14.375], 
+          [14, 8.89844], 
+          [15, 5.77734], 
+          [16, 6.34375], 
+          [17, 7.11328], 
+          [18, 7.80078], 
+          [19, 13.4023], 
+          [20, 33.6602], 
+          [21, 38.2578], 
+          [22, 42.3945], 
+          [23, 42.75], 
+          [24, 39.4102], 
+          [25, 39.7383], 
+          [26, 35.7656], 
+          [27, 43.4531], 
+          [28, 51.8711], 
+          [29, 59.75], 
+          [30, 63.7383], 
+          [31, 60.4688], 
+          [32, 56.4922], 
+          [33, 51.8008], 
+          [34, 54.3789], 
+          [35, 53.3594], 
+          [36, 53.1797], 
+          [37, 54.1602] ] 
+        );
+
+        var options = {
+          title: 'Luminance Curve',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="curve_chart" style="width: 900px; height: 500px"></div>
+  </body>
+</html>

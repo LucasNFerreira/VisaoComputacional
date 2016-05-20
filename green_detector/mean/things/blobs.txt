@@ -1,0 +1,4738 @@
+nan 
+
+nan 
+
+nan 
+
+nan 
+
+nan 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae2d1b0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d450>, <KeyPoint 0x7f62dae2d0c0>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d450>, <KeyPoint 0x7f62dae2d0c0>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d450>, <KeyPoint 0x7f62dae2d0c0>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae2d1b0>, <KeyPoint 0x7f62dae2d450>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae2d1b0>, <KeyPoint 0x7f62dae2d450>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d450>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d450>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d450>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d450>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d450>] 
+
+[<KeyPoint 0x7f62dae65360>] 
+
+[<KeyPoint 0x7f62dae49210>, <KeyPoint 0x7f62dae2d450>] 
+
+[<KeyPoint 0x7f62dae65360>, <KeyPoint 0x7f62dae2d1b0>] 
+
+[<KeyPoint 0x7f62dae49210>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>, <KeyPoint 0x7f6088c1c360>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>, <KeyPoint 0x7f6088c1c360>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>, <KeyPoint 0x7f6088c1c360>] 
+
+[<KeyPoint 0x7f6088be51b0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>] 
+
+[<KeyPoint 0x7f6088c1c360>, <KeyPoint 0x7f6088be51b0>] 
+
+[<KeyPoint 0x7f6088c02210>, <KeyPoint 0x7f6088be5450>] 
+
+[<KeyPoint 0x7f6088c1c360>, <KeyPoint 0x7f6088be51b0>] 
+
+[<KeyPoint 0x7f6088c02210>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f6088c02210>, <KeyPoint 0x7f6088c1c360>, <KeyPoint 0x7f6088be51b0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d240>, <KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818df8d240>, <KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818df8d240>, <KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df69480>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818df8d240>, <KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818df8d240>, <KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818df8d240>, <KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d240>, <KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df691e0>, <KeyPoint 0x7f818df69480>] 
+
+[<KeyPoint 0x7f818df8d240>, <KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818df69480>] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>, <KeyPoint 0x7f818dfa0390>] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818dfa0390>, <KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[<KeyPoint 0x7f818df8d030>] 
+
+[<KeyPoint 0x7f818df8d240>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[] 
+
+[<KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087fbf1e0>] 
+
+[<KeyPoint 0x7fe087fe4240>, <KeyPoint 0x7fe087fbf480>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087fe4240>, <KeyPoint 0x7fe087fbf480>] 
+
+[<KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fbf1e0>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fbf1e0>, <KeyPoint 0x7fe087fbf480>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>, <KeyPoint 0x7fe087fbf480>] 
+
+[] 
+
+[<KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087fe4240>, <KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087fe4240>, <KeyPoint 0x7fe087fbf480>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>, <KeyPoint 0x7fe087fbf480>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>, <KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fbf480>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[] 
+
+[<KeyPoint 0x7fe087fe4030>] 
+
+[] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087fe4030>, <KeyPoint 0x7fe087ff6390>] 
+
+[<KeyPoint 0x7fe087fe4240>] 
+
+[<KeyPoint 0x7fe087ff6390>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fe087fe4240>, <KeyPoint 0x7fe087fe4030>] 
+
+[<KeyPoint 0x7fe087ff6390>, <KeyPoint 0x7fe087fbf480>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fed1e623060>, <KeyPoint 0x7fed1e623270>] 
+
+[<KeyPoint 0x7fed1e6353c0>] 
+
+[<KeyPoint 0x7fed1e623270>, <KeyPoint 0x7fed1e623060>, <KeyPoint 0x7fed1e5ff210>] 
+
+[<KeyPoint 0x7fed1e6353c0>] 
+
+[<KeyPoint 0x7fed1e623270>] 
+
+[<KeyPoint 0x7fed1e6353c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fed1e623270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fed1e6353c0>] 
+
+[] 
+
+[<KeyPoint 0x7fed1e623270>, <KeyPoint 0x7fed1e623060>] 
+
+[<KeyPoint 0x7fed1e6353c0>] 
+
+[<KeyPoint 0x7fed1e623060>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fed1e6353c0>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fed1e623060>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7fed1e6353c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>, <KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>, <KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>, <KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>, <KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>, <KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68060>, <KeyPoint 0x7f75f8e44210>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>, <KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>, <KeyPoint 0x7f75f8e44210>] 
+
+[<KeyPoint 0x7f75f8e68270>, <KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>, <KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e68060>, <KeyPoint 0x7f75f8e44210>] 
+
+[<KeyPoint 0x7f75f8e68270>, <KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68060>, <KeyPoint 0x7f75f8e44210>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68060>, <KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>, <KeyPoint 0x7f75f8e44210>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f75f8e68270>] 
+
+[<KeyPoint 0x7f75f8e7a3c0>, <KeyPoint 0x7f75f8e68060>] 
+
+[<KeyPoint 0x7f75f8e68270>, <KeyPoint 0x7f75f8e44210>, <KeyPoint 0x7f75f8e444b0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e464b0>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e6a270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e46210>] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e464b0>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e46210>, <KeyPoint 0x7f2f68e46120>] 
+
+[<KeyPoint 0x7f2f68e464b0>, <KeyPoint 0x7f2f68e6a060>, <KeyPoint 0x7f2f68e6a270>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e46120>, <KeyPoint 0x7f2f68e46210>] 
+
+[<KeyPoint 0x7f2f68e464b0>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>, <KeyPoint 0x7f2f68e46210>, <KeyPoint 0x7f2f68e46120>] 
+
+[<KeyPoint 0x7f2f68e464b0>, <KeyPoint 0x7f2f68e6a270>, <KeyPoint 0x7f2f68e6a060>] 
+
+[<KeyPoint 0x7f2f68e7c3c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f6401f060>, <KeyPoint 0x7f1f6401f270>] 
+
+[<KeyPoint 0x7f1f640313c0>] 
+
+[<KeyPoint 0x7f1f63ffb4b0>] 
+
+[<KeyPoint 0x7f1f63ffb120>, <KeyPoint 0x7f1f63ffb210>] 
+
+[<KeyPoint 0x7f1f63ffb4b0>] 
+
+[<KeyPoint 0x7f1f6401f270>] 
+
+[<KeyPoint 0x7f1f640313c0>] 
+
+[<KeyPoint 0x7f1f6401f270>] 
+
+[] 
+
+[<KeyPoint 0x7f1f6401f060>] 
+
+[<KeyPoint 0x7f1f63ffb210>] 
+
+[<KeyPoint 0x7f1f640313c0>] 
+
+[<KeyPoint 0x7f1f63ffb4b0>] 
+
+[<KeyPoint 0x7f1f63ffb210>] 
+
+[<KeyPoint 0x7f1f6401f060>] 
+
+[<KeyPoint 0x7f1f640313c0>] 
+
+[<KeyPoint 0x7f1f6401f060>] 
+
+[] 
+
+[<KeyPoint 0x7f1f6401f270>] 
+
+[<KeyPoint 0x7f1f63ffb4b0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f640313c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f63ffb210>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f63ffb4b0>] 
+
+[<KeyPoint 0x7f1f6401f270>] 
+
+[] 
+
+[<KeyPoint 0x7f1f640313c0>] 
+
+[<KeyPoint 0x7f1f6401f270>] 
+
+[<KeyPoint 0x7f1f6401f060>, <KeyPoint 0x7f1f63ffb210>] 
+
+[<KeyPoint 0x7f1f6401f270>] 
+
+[<KeyPoint 0x7f1f63ffb210>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f640313c0>] 
+
+[] 
+
+[<KeyPoint 0x7f1f63ffb4b0>] 
+
+[] 
+
+[<KeyPoint 0x7f1f63ffb210>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f6401f270>] 
+
+[<KeyPoint 0x7f1f640313c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f6401f270>] 
+
+[] 
+
+[<KeyPoint 0x7f1f6401f060>] 
+
+[<KeyPoint 0x7f1f63ffb4b0>, <KeyPoint 0x7f1f63ffb120>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f63ffb4b0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f1f6401f060>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2a5210>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2a5210>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2a5210>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8060>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2a5210>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8060>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2c8270>, <KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[<KeyPoint 0x7f900e2c8060>, <KeyPoint 0x7f900e2c8270>] 
+
+[<KeyPoint 0x7f900e2da3c0>, <KeyPoint 0x7f900e2a54b0>] 
+
+[<KeyPoint 0x7f900e2c8270>] 
+
+[] 
+
+[<KeyPoint 0x7f900e2da3c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7effc2c7e060>] 
+
+[<KeyPoint 0x7effc2c7e270>, <KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c5b210>] 
+
+[] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c7e270>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c7e060>] 
+
+[<KeyPoint 0x7effc2c7e270>, <KeyPoint 0x7effc2c5b210>] 
+
+[<KeyPoint 0x7effc2c7e060>] 
+
+[<KeyPoint 0x7effc2c7e270>] 
+
+[<KeyPoint 0x7effc2c7e060>] 
+
+[<KeyPoint 0x7effc2c7e270>] 
+
+[] 
+
+[<KeyPoint 0x7effc2c7e060>] 
+
+[<KeyPoint 0x7effc2c7e270>] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c5b210>] 
+
+[<KeyPoint 0x7effc2c7e270>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c7e060>] 
+
+[<KeyPoint 0x7effc2c7e270>, <KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c7e270>] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c7e270>, <KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c7e270>] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c7e270>, <KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c7e270>] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c7e270>] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c7e060>] 
+
+[<KeyPoint 0x7effc2c7e270>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c7e270>] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c7e060>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c7e270>, <KeyPoint 0x7effc2c5b210>, <KeyPoint 0x7effc2c5b120>] 
+
+[<KeyPoint 0x7effc2c5b4b0>, <KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c5b120>, <KeyPoint 0x7effc2c5b210>] 
+
+[<KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c5b210>, <KeyPoint 0x7effc2c5b120>] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c5b120>, <KeyPoint 0x7effc2c5b210>] 
+
+[<KeyPoint 0x7effc2c5b4b0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[<KeyPoint 0x7effc2c5b210>] 
+
+[<KeyPoint 0x7effc2c5b4b0>, <KeyPoint 0x7effc2c5b120>] 
+
+[<KeyPoint 0x7effc2c5b210>, <KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c5b120>] 
+
+[<KeyPoint 0x7effc2c903c0>, <KeyPoint 0x7effc2c5b210>] 
+
+[<KeyPoint 0x7effc2c5b120>, <KeyPoint 0x7effc2c5b4b0>] 
+
+[<KeyPoint 0x7effc2c5b210>] 
+
+[<KeyPoint 0x7effc2c5b4b0>, <KeyPoint 0x7effc2c5b120>] 
+
+[<KeyPoint 0x7effc2c5b210>, <KeyPoint 0x7effc2c903c0>] 
+
+[<KeyPoint 0x7effc2c5b120>, <KeyPoint 0x7effc2c5b4b0>, <KeyPoint 0x7effc2c7e270>] 
+
+[<KeyPoint 0x7effc2c903c0>] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+
+[] 
+

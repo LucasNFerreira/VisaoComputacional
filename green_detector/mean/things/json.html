@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript">
+     
+    // Load the Visualization API and the piechart package.
+    google.load('visualization', '1', {'packages':['corechart']});
+       
+    // Set a callback to run when the Google Visualization API is loaded.
+    google.setOnLoadCallback(drawChart);
+       
+    function drawChart() {
+ 
+ 	  document.getElementById('teste').innerHTML = "1"
+
+      var jsonData = $.ajax({
+          url: "127.0.0.1:3000",
+          dataType:"json",
+          async: true
+          }).responseText;
+      document.getElementById('teste').innerHTML = "2"
+      //Dado é lido do servidor!
+      var data = new google.visualization.DataTable(jsonData);
+ 	
+ 	  document.getElementById('teste').innerHTML = "3"
+
+      // Instantiate and draw our chart, passing in some options.
+      var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+      chart.draw(data, {width: 400, height: 240});
+    }
+ 
+    </script>
+  </head>
+ 
+  <body>
+    <!--Div that will hold the pie chart-->
+    <div id="chart_div"></div>
+    <p id="teste"></p>
+  </body>
+</html>

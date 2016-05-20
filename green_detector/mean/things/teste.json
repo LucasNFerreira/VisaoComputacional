@@ -1,0 +1,13 @@
+{
+  "cols": [
+        {"label":"Bebidas","type":"string"},
+        {"label":"Quantidade","type":"number"}
+      ],
+  "rows": [
+        {"c":[{"v":"Vodcka"},{"v":3}]},
+        {"c":[{"v":"Cerveja","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Disco Voador","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Canelinha","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Pinga","f":null},{"v":2,"f":null}]}
+      ]
+}
