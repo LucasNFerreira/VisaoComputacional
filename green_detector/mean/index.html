@@ -1,18 +1,23 @@
 <html>
   <head>
 
-  <link rel="stylesheet" type="text/css" href="css/chart.css">
-
+    <link rel="stylesheet" type="text/css" href="css/chart.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
     <script type="text/javascript">
+      
+      var date = new Date();
+      var i = 0
+      var data = [];
+
       google.charts.load('current', {'packages':['corechart']});
       google.charts.setOnLoadCallback(drawChart);
 
-      function generateArray(){
-        var data = [['frame', 'Luminance']];
+      function initializeArray(){
+        data = [['frame', 'Luminance']];
         for(i = 0; i<30; i++){
-          data.push([i,Math.floor((Math.random() * 255) + 1)]);
+          data.push([i,0]);
         }
         return data;
       }
@@ -22,7 +27,7 @@
 
         var options = {
           title: 'Luminance Variation',
-          curveType: 'function',
+          //curveType: 'function',
           legend: { position: 'bottom' }
         };
 
@@ -32,12 +37,19 @@
       }
 
       function updateChart(){
-        //document.getElementById('teste').innerHTML = 'status';
         $.getJSON( "json", function( json ) {
-          drawChart(json.data);
+          var temp = [i,json.data];
+          i++;
+          data.push(temp);
+          if (data.length > 60) {
+            data.splice(1,1);
+          }
+          document.getElementById('teste').innerHTML = data;
+          drawChart(data);
         });
       };
 
+      initializeArray();
       window.setInterval('updateChart()', 1000);
 
 
@@ -48,5 +60,6 @@
     <div class="card">
       <div id="curve_chart" style="width: 900px; height: 500px; margin: 0 auto"></div>
     </div>
+    <p id="teste"></p>
   </body>
 </html>

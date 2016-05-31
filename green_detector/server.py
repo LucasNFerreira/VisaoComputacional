@@ -11,7 +11,7 @@ import detector as dtc
 import threading
 import webbrowser
 
-data = GraphData.GraphData([['frame', 'luminance']])
+data = GraphData.GraphData([])
 dataGraph = 'data'
 
 class Counter(resource.Resource):
@@ -21,8 +21,9 @@ class Counter(resource.Resource):
         self.numberRequests += 1
         if(request.uri == '/json'):
             request.setHeader(b"content-type", b"application/json")
-            content = json.dumps({dataGraph: data.values})
+            content = json.dumps({dataGraph: data.values[-1][1]})
             print "requisitou json"
+            print content
             return content
         elif(request.uri == '/chart' or request.uri == "/"):
             file = open('mean/index.html')
