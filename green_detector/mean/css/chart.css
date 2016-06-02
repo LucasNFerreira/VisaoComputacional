@@ -1,11 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
 .card{
 	padding: 2rem;
-	margin: 0 auto;
+	margin: auto auto;
 	box-shadow: 2px 2px 15px #212121;
 	background-color: #eee;
+	width: 70vw;
 }
 
 .chart{
 	width: 900px;
 	height: 500px;
+	margin: 0 auto;
+	z-index: 1;
+	background-color: #eee;
 }

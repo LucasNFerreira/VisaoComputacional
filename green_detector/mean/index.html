@@ -27,7 +27,7 @@
 
         var options = {
           title: 'Luminance Variation',
-          //curveType: 'function',
+          curveType: 'function',
           legend: { position: 'bottom' }
         };
 
@@ -44,7 +44,6 @@
           if (data.length > 60) {
             data.splice(1,1);
           }
-          document.getElementById('teste').innerHTML = data;
           drawChart(data);
         });
       };
@@ -58,8 +57,7 @@
   </head>
   <body>
     <div class="card">
-      <div id="curve_chart" style="width: 900px; height: 500px; margin: 0 auto"></div>
+      <div id="curve_chart" class="chart"></div>
     </div>
-    <p id="teste"></p>
   </body>
 </html>

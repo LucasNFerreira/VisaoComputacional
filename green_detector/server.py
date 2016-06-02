@@ -22,15 +22,21 @@ class Counter(resource.Resource):
         if(request.uri == '/json'):
             request.setHeader(b"content-type", b"application/json")
             content = json.dumps({dataGraph: data.values[-1][1]})
-            print "requisitou json"
-            print content
             return content
         elif(request.uri == '/chart' or request.uri == "/"):
             file = open('mean/index.html')
             content = file.read()
             file.close()
             return content
+
+        elif(request.uri == '/css/chart.css'):
+            file = open('mean/css/chart.css')
+            content = file.read()
+            file.close()
+            return content
+        
         else:
+            print request.uri
             return "this page is not avaliable"
 
 
